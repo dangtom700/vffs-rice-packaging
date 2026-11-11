@@ -1,0 +1,10 @@
+# Third-party material — NOT redistributed (cited in references.md instead)
+*.pdf
+*.HEIC
+*.heic
+*.docx
+# local / editor state
+~$*
+.obsidian/
+Thumbs.db
+desktop.ini
